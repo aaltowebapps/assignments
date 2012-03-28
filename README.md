@@ -9,7 +9,7 @@ To clone locally, you must clone the main repository and update the submodules:
     git submodule init
     git submodule update
   
-##Updating the submodules for the main repository
+##Updating one submodule for the main repository
 The submodules are not automatically update but must be updated manually. First we must go to the submodule 
 to update, pull the new version and commit the main repository: 
 
@@ -37,7 +37,8 @@ You can add a new submodule to the main repo in the following way:
     git commit -m "Added a new submodule"
 
 ##Pulling the submodules updates from the main repository
-If you have already cloned the main repository, you can update the submodules in the following way:
+If you have already cloned the main repository, you can update the submodules to the latest version that is 
+stored in the main repository in the following way (this will not update to the latest versions of the submodules):
 
     git pull origin
     git submodule update
