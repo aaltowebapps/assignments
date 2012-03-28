@@ -1,0 +1,51 @@
+[submodule "gasomob"]
+	path = gasomob
+	url = git@github.com:aaltowebapps/gasomob.git
+[submodule "team-9"]
+	path = team-9
+	url = git@github.com:aaltowebapps/team-9.git
+[submodule "zouba"]
+	path = zouba
+	url = git@github.com:aaltowebapps/zouba.git
+[submodule "team-17"]
+	path = team-17
+	url = git@github.com:aaltowebapps/team-17.git
+[submodule "Tap-the-Beer"]
+	path = Tap-the-Beer
+	url = git@github.com:aaltowebapps/Tap-the-Beer.git
+[submodule "Open-Ministry-Mobile"]
+	path = Open-Ministry-Mobile
+	url = git@github.com:aaltowebapps/Open-Ministry-Mobile.git
+[submodule "team-7"]
+	path = team-7
+	url = git@github.com:aaltowebapps/team-7.git
+[submodule "team-16"]
+	path = team-16
+	url = git@github.com:aaltowebapps/team-16.git
+[submodule "team-2"]
+	path = team-2
+	url = git@github.com:aaltowebapps/team-2.git
+[submodule "team-1"]
+	path = team-1
+	url = git@github.com:aaltowebapps/team-1.git
+[submodule "hungrybunch"]
+	path = hungrybunch
+	url = git@github.com:aaltowebapps/hungrybunch.git
+[submodule "team-5"]
+	path = team-5
+	url = git@github.com:aaltowebapps/team-5.git
+[submodule "FreeFoodCalendar"]
+	path = FreeFoodCalendar
+	url = git@github.com:aaltowebapps/FreeFoodCalendar.git
+[submodule "team-8"]
+	path = team-8
+	url = git@github.com:aaltowebapps/team-8.git
+[submodule "bar_router"]
+	path = bar_router
+	url = git@github.com:aaltowebapps/bar_router.git
+[submodule "team-4"]
+	path = team-4
+	url = git@github.com:aaltowebapps/team-4.git
+[submodule "MyMundus-Mobile"]
+	path = MyMundus-Mobile
+	url = git@github.com:aaltowebapps/MyMundus-Mobile.git
