@@ -49,3 +49,6 @@
 [submodule "MyMundus-Mobile"]
 	path = MyMundus-Mobile
 	url = git@github.com:aaltowebapps/MyMundus-Mobile.git
+[submodule "team-24"]
+	path = team-24
+	url = git@github.com:aaltowebapps/team-24.git
